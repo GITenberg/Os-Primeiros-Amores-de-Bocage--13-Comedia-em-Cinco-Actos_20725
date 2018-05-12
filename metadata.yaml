@@ -1,0 +1,35 @@
+_repo: Os-Primeiros-Amores-de-Bocage--13-Comedia-em-Cinco-Actos_20725
+_version: 0.1.0
+alternative_title: "Os Primeiros Amores de Bocage\r\nComédia em Cinco Actos"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leal, José da Silva Mendes
+    aliases:
+    - Leal Junior, José da Silva Mendes
+    - Leal, Jose da Silva Mendes
+    birthdate: 1818
+    deathdate: 1886
+    gutenberg_agent_id: '9492'
+    url: http://www.gutenberg.org/2009/agents/9492
+    wikipedia: http://pt.wikipedia.org/wiki/Mendes_leal
+description: "Lisboa:\r\nTypographia Universal\r\n1865"
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2007-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20725'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bocage, Manuel Maria Barbosa du, 1765-1805 -- Drama'
+- !lcc 'PQ'
+title: "Os Primeiros Amores de Bocage\r\nComedia em Cinco Actos"
+url: http://www.gutenberg.org/ebooks/20725
