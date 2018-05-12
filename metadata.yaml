@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9492
     wikipedia: http://pt.wikipedia.org/wiki/Mendes_leal
 description: "Lisboa:\r\nTypographia Universal\r\n1865"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20725#Os-Primeiros-Amores-de-Bocage--13-Comedia-em-Cinco-Actos
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2007-03-02'
 gutenberg_type: Text
